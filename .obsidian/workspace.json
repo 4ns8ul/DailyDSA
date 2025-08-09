@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "822d57a09abe8ad2",
+    "type": "split",
+    "children": [
+      {
+        "id": "517d9655b3410a1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1583b1aa6f2463e9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Lecture-001/Types.png"
+              },
+              "icon": "lucide-image",
+              "title": "Types"
+            }
+          },
+          {
+            "id": "e9c7f39c15051911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture-006 Inputs and Operators/Notes/Inputs and Operators.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inputs and Operators"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "bd2a960a31800a39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1f42439ca08c964",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c22454b91c3d8c1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "384965cbb648778b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37536204cd9446bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d064aea885962c2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d635922103ddeb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11c54196c3d15d4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3c4483fe77af2a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0633d89dad56e557",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lecture-005 Basics - Literals/Notes/Literals, Types, Conversions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Literals, Types, Conversions"
+            }
+          },
+          {
+            "id": "ba1e940a84b8565a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lecture-005 Basics - Literals/Notes/Literals, Types, Conversions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Literals, Types, Conversions"
+            }
+          },
+          {
+            "id": "d1a9d48c8928dd0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f00a6f5f20d5ec68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lecture-005 Basics - Literals/Notes/Literals, Types, Conversions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Literals, Types, Conversions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "37536204cd9446bc",
+  "lastOpenFiles": [
+    "Lecture-006 Inputs and Operators/Notes/Inputs and Operators.md",
+    "Lecture-005 Basics - Literals/Notes/Inputs and Operators.md",
+    "Lecture-001/Programming Languages.md",
+    "Lecture-006 Inputs and Operators/Notes/Lecture - 5.png",
+    "Lecture-005 Basics - Literals/Codes/src/MyClass.java",
+    "Lecture-005 Basics - Literals/Codes/src",
+    "Lecture-005 Basics - Literals/Codes/bin/MyClass.class",
+    "Lecture-005 Basics - Literals/Codes/bin",
+    "Lecture-005 Basics - Literals/Codes/Lecture5.java",
+    "Lecture-005 Basics - Literals/Notes",
+    "Lecture-005 Basics - Literals/New folder",
+    "Lecture-005 Basics - Literals/Codes",
+    "Lecture-005 Basics - Literals/Lecture5.java",
+    "Lecture-005 Basics - Literals/New Text Document.txt",
+    "Lecture-001/Lecture - 1.png",
+    "Lecture-001/Types.png",
+    "Welcome.md"
+  ]
+}
