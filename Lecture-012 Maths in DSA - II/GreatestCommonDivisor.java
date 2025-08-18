@@ -21,13 +21,6 @@ class Program{
 		
 	}
 	
-	static void divisorOfNum(int num){
-		for(int i=1; i <= (int) Math.sqrt(num); i++){
-			if(num%i == 0){
-				System.out.println(i + "x" + num/i + "=" + num);
-			}
-		}
-	}
 	
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
