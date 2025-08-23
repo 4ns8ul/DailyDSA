@@ -1,0 +1,47 @@
+# 📚 Daily DSA Practice
+
+A repository to track and store my **Daily Data Structures & Algorithms (DSA)** practice solutions.  
+The goal is to stay consistent, improve problem-solving skills, and build a reference archive of solutions for revision.
+
+---
+
+## 🚀 About
+- 📅 **Daily Practice**: One or more DSA problems every day.
+- 💡 **Topics Covered**: Arrays, Strings, Linked Lists, Trees, Graphs, DP, and more.
+- 🛠 **Languages Used**: Primarily Java, but may include Python, C++, or JavaScript.
+- 📈 **Goal**: Sharpen problem-solving skills for coding interviews & competitive programming.
+
+---
+
+## 📂 Repository Structure
+📁 Daily-DSA
+┣ 📂 Lecture-Wise (or Day Wise)
+┃ ┣ 📂 Day-XX
+┃ ┃ ┣ JAVA source code file
+┗ 📄 README.md # This file
+
+## ⚡ How I Solve
+1. Read & understand the problem.
+2. Identify constraints & edge cases.
+3. Plan an optimal approach before coding.
+4. Write the solution.
+5. Test with multiple inputs.
+6. Document the approach.
+
+---
+
+## 📊 Progress Tracker
+| Date       | Problems Solved | Topics |
+|------------|----------------|--------|
+| YYYY-MM-DD | Problem Name(s) | Arrays, Strings, etc. |
+
+---
+
+## 💡 Motivation
+> "Consistency beats intensity. One problem a day keeps the fear away."
+
+---
+
+## 📜 License
+This repository is for **personal learning and reference**.  
+Feel free to explore, but do not copy blindly — understand the logic first.
